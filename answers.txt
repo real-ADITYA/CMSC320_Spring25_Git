@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is used in a plethora of different use cases in the software industry. More specifically, it can be used in motorsports. There, developers can collect large amounts of data from sensors on a racecar, including telemetry, fuel consumption, and even tire performance. This way, teams will be able to optimize their car and make predictions as to what their racecar needs to perform the best it can during raceday.
